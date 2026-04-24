@@ -1,0 +1,22 @@
+{
+  "name": "page-screenshot",
+  "version": "1.0.0",
+  "description": "Screenshot any URL using your Chrome profile (with cookies/auth)",
+  "type": "module",
+  "bin": {
+    "page-screenshot": "bin/page-screenshot.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "screenshot",
+    "puppeteer",
+    "chrome",
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}
