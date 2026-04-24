@@ -90,8 +90,8 @@ Options:
   --help            Show this help message
 
 Examples:
-  page-screenshot https://2.strety.com/some-page
-  page-screenshot --full-page https://2.strety.com/some-page
+  page-screenshot https://app.test.com/some-page
+  page-screenshot --full-page https://app.test.com/some-page
   page-screenshot --output ./shot.png https://example.com
   page-screenshot --width 1920 --height 1080 https://example.com
 
