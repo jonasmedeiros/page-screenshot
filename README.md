@@ -29,10 +29,10 @@ node ~/projects/page-screenshot/bin/page-screenshot.mjs <url> [options]
 
 ```bash
 # Screenshot an authenticated page
-page-screenshot https://2.strety.com/some-page
+page-screenshot https://app.test.com/some-page
 
 # Full page capture
-page-screenshot --full-page https://2.strety.com/some-page
+page-screenshot --full-page https://app.test.com/some-page
 
 # Custom dimensions
 page-screenshot --width 1920 --height 1080 https://example.com
